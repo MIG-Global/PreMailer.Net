@@ -1,6 +1,7 @@
 # NOTE: This fork has been merged
 
 Included in PreMailer.NET version 2.4.0
+
 https://github.com/milkshakesoftware/PreMailer.Net/pull/275#issuecomment-957352422
 
 # PreMailer.Net ![.NET Core build](https://github.com/milkshakesoftware/PreMailer.Net/workflows/.NET%20Core%20build/badge.svg) [![Nuget count](https://img.shields.io/nuget/v/PreMailer.Net.svg?style=flat-square)](https://www.nuget.org/packages/PreMailer.Net/)
